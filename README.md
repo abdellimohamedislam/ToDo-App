@@ -1,3 +1,3 @@
 #TODO APP
-
-todo app using django 
+-----------------------
+todo app using Python Django 
